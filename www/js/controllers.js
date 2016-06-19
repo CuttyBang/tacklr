@@ -191,10 +191,6 @@ angular.module('starter.controllers', [])
     }
   });
 
-  //google.maps.event.addDomListener(window, 'load', function(){
-    //pathService = new google.maps.DirectionsService();
-    //pathDisplay = new google.maps.DirectionsRenderer({map:map, draggable: true});
-  //});
 }])
 
 .controller('AccountCtrl', function($scope) {
