@@ -9,7 +9,7 @@ angular.module('starter.services', [])
   }, {
     id: 1,
     name: 'Routes',
-    text: spotData,
+    text: routeData,
     img: 'img/route-crop.png'
   }, {
     id: 2,
