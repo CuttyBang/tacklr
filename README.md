@@ -7,6 +7,6 @@ Scout spots. Mark em, tag em, create routes and get them all. Save past runs and
 
 This is an app in production. Will be full fledged lifestyle/essentials app once all the kinks are worked out.
 
-AngularJs/Ionic Framework scaffolding, using Google Maps, VelocityJs, and Flicker APIs.
+AngularJs/Ionic Framework scaffolding, using Google Maps and Flicker APIs.
 
 2016 NathanMcElwain/Cutty Bang Multimedia

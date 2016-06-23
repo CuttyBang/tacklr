@@ -27,9 +27,6 @@ angular.module('starter.controllers', [])
   $scope.map = map;
   $scope.pin = pin;
 
-  //window.onload = initMap();
-
-
   var pin, showButton, geocoder, track;
   var pathService, pathDisplay, map, marker;
   var pins = [];
