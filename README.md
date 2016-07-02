@@ -1,7 +1,7 @@
 Tacklr 0.1
 =====================
 
-Scout spots. Mark em, tag em, create routes and get them all. Save past runs and find new ones, supplies on the fly, and "runner detection" to easily ditch the evidence. 
+Scout spots. Mark em, tag em, create routes and get them all. Save past runs and find new ones, supplies on the fly, and "runner detection" to easily ditch the evidence. Tacklr is the first of it's kind. My oath is to never willingly allow your paths to be traced. There are safeguards in place to prevent this app from displaying your current or past usage and I will only make it better in this regard.   
 
 ## Using this project
 
